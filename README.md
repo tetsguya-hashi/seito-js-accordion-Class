@@ -1,2 +1,2 @@
-# seito-js-accordion-Class
+# seit-js-class
 Created with CodeSandbox
